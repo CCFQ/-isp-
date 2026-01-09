@@ -107,7 +107,7 @@ Gain 通常以浮点值表达，如 R_gain = 1.7，表示将红通道像素强�
 
 ```
 下图是展锐关于awb的流程示意图
-![alt text](phone/AWB_3.png)
+<!-- ![alt text](phone/AWB_3.png) -->
 
 
 ## AWB 展锐注意事项
